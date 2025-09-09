@@ -30,3 +30,12 @@ The dataset contains **10,000 features** per sample, making it a high-dimensiona
 ### 5. Visualization
 - Visualized the clusters using the **first 2 PCA components** in a scatter plot.
 - Different colors represent different clusters.
+
+Clustered plot in graph:
+
+<img width="679" height="547" alt="image" src="https://github.com/user-attachments/assets/38d89541-1337-495b-9012-50a13f36d6ae" />
+
+Scree plot:
+
+<img width="708" height="470" alt="image" src="https://github.com/user-attachments/assets/456e0ad7-6d88-468e-94b1-27be79fcdbde" />
+
